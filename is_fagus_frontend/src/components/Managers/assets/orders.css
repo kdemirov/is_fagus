@@ -1,0 +1,13 @@
+.orderGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    color: #2c3e50;
+    font-family: 'Montserrat', sans-serif;
+    width: 40rem;
+    font-weight: 300;
+    min-height: 100vh;
+    position: relative;
+    margin: 2rem auto;
+
+}
